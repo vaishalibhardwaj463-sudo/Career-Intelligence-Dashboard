@@ -1,0 +1,11 @@
+# Create a virtual environment (one-time setup)
+# python3 -m venv venv
+# source venv/bin/activate
+
+# Install the packages needed for this app
+# pip install -r requirements.txt
+
+streamlit
+pandas
+plotly
+scikit-learn
